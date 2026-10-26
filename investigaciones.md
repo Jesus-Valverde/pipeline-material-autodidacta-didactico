@@ -40,6 +40,12 @@ Registro de las evaluaciones hechas al armar el pipeline (octubre 2026). Cada en
 | Quizizz → ahora "Wayground" (oct-2026) | 🧪 A probar | Único hueco real: quizzing interactivo EN CLASE requiere plataforma estudiante-facing que un agente no puede sustituir. Free existe; límites exactos solo en la app |
 | Curipod, Diffit, Khanmigo, Gradescope | ❌ Rechazadas | Trasladan el pipeline de decks propio / K-12 / calificación a escala innecesaria para grupos pequeños |
 
+## Investigación como servicio (SaaS cerrado)
+
+| Herramienta | Veredicto | Razón |
+|---|---|---|
+| [hanademi](https://hanademi.com/how-it-works) ($9/pieza; 6 por $49, 25 por $199, oct-2026) | ❌ Rechazada, **saqueada una idea** | Convierte una pregunta en un explainer visual o deck de gráficas: lee ~1,000 páginas de ~300 sitios, cada cifra con link a su fuente, fuentes en conflicto mostradas en paralelo, datos débiles marcados, proyecciones etiquetadas. Mismo espíritu que la capa 1, pero cerrado: entregan su formato (no una fuente única editable), sin redacción didáctica, sin papers (gobierno/prensa/filings, no arXiv/SciELO), y $9 por pieza contra los centavos de una corrida propia. **Idea robada**: buscar activamente fuentes que contradigan la premisa — no solo marcar lo disputado cuando aparece |
+
 ## Las 5 listas de "mejores herramientas IA" evaluadas
 
 Durante el armado cayeron cinco listas circulando en internet (incluida la de la propia Kimi). Patrón repetido al 90%: recomiendan (a) lo que este pipeline ya hace, en versión más limitada y con mensualidad, o (b) herramientas de otro género (papers de revista, novelas, K-12). Las listas sirvieron de examen de validación — el pipeline las pasó todas.

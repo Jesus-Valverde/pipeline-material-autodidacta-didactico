@@ -34,6 +34,8 @@ Durante el armado se evaluaron ~20 herramientas y colecciones. El registro compl
 
 ## Cómo replicarlo
 
+Guía paso a paso con comandos: **[INSTALACION.md](INSTALACION.md)**. Resumen:
+
 El pipeline vive entero en skills de formato abierto (`SKILL.md` — el estándar que leen Claude Code, zCode, Cursor, Codex y compañía):
 
 1. **Consigue un agente que lea skills** y una carpeta de skills propia.

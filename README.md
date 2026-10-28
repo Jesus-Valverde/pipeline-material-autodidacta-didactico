@@ -1,3 +1,5 @@
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](README.md) [![en](https://img.shields.io/badge/lang-en-blue.svg)](README.en.md)
+
 # Pipeline para material autodidacta y didáctico
 
 Un pipeline personal de IA para **investigar, redactar y producir** dos tipos de material: informes completos para aprender temas por cuenta propia, y libros didácticos o estudiantiles. No es un SaaS ni una app: es un flujo de trabajo armado sobre un agente de IA (skills en formato abierto `SKILL.md`), configurado con reglas propias y verificable hasta la fuente.
@@ -27,6 +29,7 @@ Reglas transversales: **fuente única** (nada se afirma que no esté en la inves
 
 - **[Libro: Stack de desarrollo de Software con IA](ejemplos/libro-stack-con-ia/)** — libro didáctico de 15 capítulos generado con el pipeline completo: entrevista inicial de alcance, investigación con fuentes, tres pasadas editoriales por capítulo, evaluación final de "editor adquisidor" leyendo el PDF ciego. PDF completo incluido.
 - **[Prueba contra material hecho a mano](ejemplos/informe-conferencia/comparacion-pipeline-vs-manual.md)** — el mismo guion de conferencia, escrito a mano vs. generado por el pipeline, comparado dato por dato: cobertura 71%, conflictos adjudicados contra fuente primaria, y el veredicto por dimensión que origina el posicionamiento de este repo.
+- **[Tutorial: personaliza tu README de perfil de GitHub](https://github.com/Jesus-Valverde/github-profile-readme-tutorial)** — guía bilingüe producida de punta a punta con el pipeline en un solo día: deep research (14 items, 33 datos verificados), redacción didáctica con cuatro pasadas de edición por versión, y entregables renderizados (markdown, docx, PDF). Publicado y enlazado desde el perfil del autor.
 
 ## Las investigaciones: qué evalué, qué tomé y qué rechacé
 

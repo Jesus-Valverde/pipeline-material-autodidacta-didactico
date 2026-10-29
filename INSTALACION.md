@@ -63,6 +63,8 @@ Pipeline: investigar → redactar → diseñar → producir.
 ## Parámetros de apertura
 - modo: `web` (default, fuentes generales) | `academico`
   (Google Académico/arXiv/SciELO/OA; Elicit obligatorio; references.bib desde el día 1)
+- formato: `informe` (default) | `libro` | `tutorial` | `deck` | `oratoria`
+  (elige el paquete de redacción: qué aparato didáctico aplica, títulos descriptivos, retórica sí/no)
 
 ## Pasos por informe
 1. Investigar con deep-research + paper-lookup → informes/<tema>/investigacion.md

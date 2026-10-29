@@ -23,7 +23,7 @@ El trato es honesto: el pipeline te entrega un borrador **trazable hasta la fuen
 
 Reglas transversales: **fuente única** (nada se afirma que no esté en la investigación), **veredicto = la dimensión más baja** (un documento con contenido 9 y fuentes 4 no pasa), y **edición en cuatro pasadas** (borrador → line editing → copyedit → lectura ciega).
 
-**Parámetro de apertura `modo`** — al iniciar un tema se declara una de dos rutas para la capa 1: `web` (default: investigación abierta en fuentes generales) o `academico` (búsqueda restringida a Google Académico, arXiv, SciELO, Redalyc, Semantic Scholar y revistas de acceso abierto; Elicit pasa de opcional a obligatorio, y la bibliografía vive desde el día 1 en un `references.bib` en formato BibTeX que se rinde como Referencias en APA). El mismo pipeline, dos regímenes de fuente.
+**Parámetros de apertura** — al iniciar un tema se declaran dos switches. `modo` elige el régimen de la capa 1: `web` (default: investigación abierta en fuentes generales) o `academico` (búsqueda restringida a Google Académico, arXiv, SciELO, Redalyc, Semantic Scholar y revistas de acceso abierto; Elicit pasa de opcional a obligatorio, y la bibliografía vive desde el día 1 en un `references.bib` en formato BibTeX que se rinde como Referencias en APA). `formato` elige el paquete de redacción de la capa 2: **informe** (default: aparato didáctico completo), **libro**, **tutorial** (pasos directos, sin aparato de estudio), **deck** (cifras en la slide, prosa en notas del orador) u **oratoria** (retórica hablada permitida). Cada preset define qué aparato didáctico aplica, cómo se titulan las secciones y cuánta retórica se permite — las reglas viven en la skill de redacción; el proyecto solo las declara al inicio.
 
 ## Ejemplos
 
